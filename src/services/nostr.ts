@@ -236,7 +236,7 @@ export function buildCallInviteMessage(
   return [
     'Latimer callback request',
     '',
-    `Open this link to launch Latimer in a throwaway incognito session and start a ${label} with me:`,
+    `Open this link to launch a Nood Call in a throwaway incognito session and start a ${label} with me:`,
     inviteUrl,
     '',
     'The session is temporary and disappears when the tab closes.',

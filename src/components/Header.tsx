@@ -21,7 +21,7 @@ const Header: Component = () => {
           style={{ 'border-radius': '10px', 'flex-shrink': '0' }}
         />
         <span class="font-semibold text-base" style={{ color: 'var(--color-text)' }}>
-          Latimer
+          Nood Call
         </span>
         <div class={`status-dot ${store.loggedIn ? 'connected' : 'disconnected'}`} />
       </div>

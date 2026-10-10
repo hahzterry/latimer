@@ -24,7 +24,7 @@ const PostCallWelcome: Component<PostCallWelcomeProps> = (props) => {
 
         <div class="flex flex-col gap-2">
           <h1 class="text-2xl font-bold" style={{ color: 'var(--color-text)' }}>
-            That was Latimer
+            That was Nood Call
           </h1>
           <p class="text-sm leading-relaxed" style={{ color: 'var(--color-text-dim)' }}>
             End-to-end encrypted calls over Nostr — no accounts, no servers, no surveillance. Your call was private by default.
@@ -58,7 +58,7 @@ const PostCallWelcome: Component<PostCallWelcomeProps> = (props) => {
             }}
             onClick={props.onSignUp}
           >
-            Create your Latimer account
+            Create your Nood Call account
           </button>
 
           <button
@@ -89,7 +89,7 @@ const PostCallWelcome: Component<PostCallWelcomeProps> = (props) => {
         </div>
 
         <p class="text-xs" style={{ color: 'var(--color-text-muted)' }}>
-          Free forever · Open source · Built on Nostr
+          Get paid for Nood Calls.
         </p>
       </div>
     </div>
