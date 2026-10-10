@@ -27,7 +27,7 @@ const PostCallWelcome: Component<PostCallWelcomeProps> = (props) => {
             That was Nood Call
           </h1>
           <p class="text-sm leading-relaxed" style={{ color: 'var(--color-text-dim)' }}>
-            End-to-end encrypted calls over Nostr — no accounts, no servers, no surveillance. Your call was private by default.
+            End-to-end encrypted Nood Call — no accounts, no servers, no surveillance. Your call was private by default.
           </p>
         </div>
 

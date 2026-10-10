@@ -329,7 +329,7 @@ const Login: Component<LoginProps> = (props) => {
           class="text-3xl font-bold tracking-tight"
           style={{ color: 'var(--color-text)' }}
         >
-          Latimer
+          Nood Call
         </h1>
       </div>
 
@@ -338,7 +338,7 @@ const Login: Component<LoginProps> = (props) => {
         class="text-sm text-center mb-10 max-w-xs"
         style={{ color: 'var(--color-text-dim)' }}
       >
-        End-to-end encrypted calls on Nostr
+        Facetime blocked nude calls, we pay you for Nood Facetime Calls.
       </p>
 
       <div class="w-full max-w-xs">
